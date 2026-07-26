@@ -10,6 +10,12 @@ The project explores how structured analysis, data and technology can support or
 
 Turn political and institutional complexity into decision-relevant intelligence, clear strategic options and effective communications.
 
+## Featured project
+
+### [CCM Lead Intelligence](https://github.com/Martins248/ccm-lead-intelligence)
+
+A privacy-conscious Python toolkit for transparent lead qualification, human-reviewed outreach and Business Intelligence reporting. It includes explainable scoring, CSV safety controls, decision-oriented charts and an automated test suite.
+
 ## Core areas
 
 - Political and institutional intelligence
